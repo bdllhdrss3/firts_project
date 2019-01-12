@@ -72,3 +72,9 @@ a{
 a:hover{
     background-color: cornflowerblue;
 }
+
+@media screen and (max-width: 900px) {
+    body {
+        background-color: limegreen;
+    }
+}
