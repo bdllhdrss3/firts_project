@@ -1,5 +1,52 @@
-#main-doc{
-background-color: rgb(49, 44, 37);
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+
+body{
+    margin: 0%;
+    background-color:lightblue;
+}
+
+
+#main-doc{
+background-color: whitesmoke;
+font-family: Arial;
+float:right;
+padding: 20px;
+width:75%;
+
+}
+nav{
+    float:left;
+}
+header{
+    background-color: blue;
+    height: 80px;
+    width: 100%;
+    margin: 0%
+}
+#header{
+    padding-top: 20px;
+    text-align: center;
+font-size: 40px;
+padding-bottom: 20px;
+font-family: arial;
+color: whitesmoke;
+}
+small{
+    font-family: cursive;
+    font-size: 20px;
+    color: lightblue;
+}
+#list{
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 0%;
+  x
+}
+a{
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    color: blue;
+    border-bottom: 1px solid;
+    margin-left:0;
 }
