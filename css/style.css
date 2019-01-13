@@ -3,13 +3,13 @@
 body{
     margin: 0%;
     background-color:lightblue;
-    font-family: arial;
+    font-family:helvetica;
 }
 
 
 #main-doc{
 background-color: whitesmoke;
-font-family: Arial;
+
 float:right;
 padding: 20px;
 max-width:75%;
